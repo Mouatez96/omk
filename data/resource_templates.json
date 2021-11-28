@@ -1,0 +1,681 @@
+[
+  {
+    "@context": "http://localhost/omeka-s/api-context",
+    "@id": "http://localhost/omeka-s/api/resource_templates/1",
+    "@type": "o:ResourceTemplate",
+    "o:id": 1,
+    "o:label": "Base Resource",
+    "o:owner": null,
+    "o:resource_class": null,
+    "o:title_property": null,
+    "o:description_property": null,
+    "o:resource_template_property": [
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/1",
+          "o:id": 1
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/15",
+          "o:id": 15
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/8",
+          "o:id": 8
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/2",
+          "o:id": 2
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/7",
+          "o:id": 7
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/4",
+          "o:id": 4
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/9",
+          "o:id": 9
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/12",
+          "o:id": 12
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/40",
+          "o:id": 40
+        },
+        "o:alternate_label": "Place",
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/5",
+          "o:id": 5
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/17",
+          "o:id": 17
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/6",
+          "o:id": 6
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/25",
+          "o:id": 25
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/10",
+          "o:id": 10
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/13",
+          "o:id": 13
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/29",
+          "o:id": 29
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/30",
+          "o:id": 30
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/50",
+          "o:id": 50
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/3",
+          "o:id": 3
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/41",
+          "o:id": 41
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/omeka-s/api-context",
+    "@id": "http://localhost/omeka-s/api/resource_templates/3",
+    "@type": "o:ResourceTemplate",
+    "o:id": 3,
+    "o:label": "athlète_s'entraine",
+    "o:owner": {
+      "@id": "http://localhost/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/omeka-s/api/resource_classes/111",
+      "o:id": 111
+    },
+    "o:title_property": null,
+    "o:description_property": null,
+    "o:resource_template_property": [
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/1",
+          "o:id": 1
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/4",
+          "o:id": 4
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/194",
+          "o:id": 194
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/omeka-s/api-context",
+    "@id": "http://localhost/omeka-s/api/resource_templates/4",
+    "@type": "o:ResourceTemplate",
+    "o:id": 4,
+    "o:label": "entraineur_entraine_atlhète",
+    "o:owner": {
+      "@id": "http://localhost/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/omeka-s/api/resource_classes/112",
+      "o:id": 112
+    },
+    "o:title_property": null,
+    "o:description_property": null,
+    "o:resource_template_property": [
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/1",
+          "o:id": 1
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/4",
+          "o:id": 4
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/193",
+          "o:id": 193
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/omeka-s/api-context",
+    "@id": "http://localhost/omeka-s/api/resource_templates/5",
+    "@type": "o:ResourceTemplate",
+    "o:id": 5,
+    "o:label": "entraineur_sentraine",
+    "o:owner": {
+      "@id": "http://localhost/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/omeka-s/api/resource_classes/112",
+      "o:id": 112
+    },
+    "o:title_property": null,
+    "o:description_property": null,
+    "o:resource_template_property": [
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/1",
+          "o:id": 1
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/4",
+          "o:id": 4
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/194",
+          "o:id": 194
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/omeka-s/api-context",
+    "@id": "http://localhost/omeka-s/api/resource_templates/6",
+    "@type": "o:ResourceTemplate",
+    "o:id": 6,
+    "o:label": "entraineur_entrainea_terrain",
+    "o:owner": {
+      "@id": "http://localhost/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/omeka-s/api/resource_classes/112",
+      "o:id": 112
+    },
+    "o:title_property": null,
+    "o:description_property": null,
+    "o:resource_template_property": [
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/1",
+          "o:id": 1
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/4",
+          "o:id": 4
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/195",
+          "o:id": 195
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/omeka-s/api-context",
+    "@id": "http://localhost/omeka-s/api/resource_templates/7",
+    "@type": "o:ResourceTemplate",
+    "o:id": 7,
+    "o:label": "atlhète_sentrainea_terrain",
+    "o:owner": {
+      "@id": "http://localhost/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/omeka-s/api/resource_classes/111",
+      "o:id": 111
+    },
+    "o:title_property": null,
+    "o:description_property": null,
+    "o:resource_template_property": [
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/1",
+          "o:id": 1
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/4",
+          "o:id": 4
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/196",
+          "o:id": 196
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/omeka-s/api-context",
+    "@id": "http://localhost/omeka-s/api/resource_templates/8",
+    "@type": "o:ResourceTemplate",
+    "o:id": 8,
+    "o:label": "atlhète_participea_tournoi",
+    "o:owner": {
+      "@id": "http://localhost/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/omeka-s/api/resource_classes/111",
+      "o:id": 111
+    },
+    "o:title_property": null,
+    "o:description_property": null,
+    "o:resource_template_property": [
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/1",
+          "o:id": 1
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/4",
+          "o:id": 4
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/197",
+          "o:id": 197
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/omeka-s/api-context",
+    "@id": "http://localhost/omeka-s/api/resource_templates/9",
+    "@type": "o:ResourceTemplate",
+    "o:id": 9,
+    "o:label": "entraineur_soutien_atlhète",
+    "o:owner": {
+      "@id": "http://localhost/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/omeka-s/api/resource_classes/112",
+      "o:id": 112
+    },
+    "o:title_property": null,
+    "o:description_property": null,
+    "o:resource_template_property": [
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/1",
+          "o:id": 1
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/4",
+          "o:id": 4
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      },
+      {
+        "o:property": {
+          "@id": "http://localhost/omeka-s/api/properties/198",
+          "o:id": 198
+        },
+        "o:alternate_label": null,
+        "o:alternate_comment": null,
+        "o:data_type": [
+          
+        ],
+        "o:is_required": false,
+        "o:is_private": false
+      }
+    ]
+  }
+]
