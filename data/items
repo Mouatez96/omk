@@ -1,0 +1,378 @@
+
+[
+  {
+    "@context": "http://localhost/omeka-s/api-context",
+    "@id": "http://localhost/omeka-s/api/items/1",
+    "@type": [
+      "o:Item",
+      "tennis:athlète"
+    ],
+    "o:id": 1,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/omeka-s/api/resource_classes/111",
+      "o:id": 111
+    },
+    "o:resource_template": {
+      "@id": "http://localhost/omeka-s/api/resource_templates/3",
+      "o:id": 3
+    },
+    "o:thumbnail": null,
+    "o:title": "nadal",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-28T20:32:54+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-28T20:49:22+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [
+      
+    ],
+    "o:item_set": [
+      
+    ],
+    "o:site": [
+      
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "nadal"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/omeka-s/api-context",
+    "@id": "http://localhost/omeka-s/api/items/2",
+    "@type": [
+      "o:Item",
+      "tennis:athlète"
+    ],
+    "o:id": 2,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/omeka-s/api/resource_classes/111",
+      "o:id": 111
+    },
+    "o:resource_template": {
+      "@id": "http://localhost/omeka-s/api/resource_templates/8",
+      "o:id": 8
+    },
+    "o:thumbnail": null,
+    "o:title": "federer",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-28T20:33:53+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-28T20:57:12+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [
+      
+    ],
+    "o:item_set": [
+      
+    ],
+    "o:site": [
+      
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "federer"
+      }
+    ],
+    "tennis:participe_a": [
+      {
+        "type": "literal",
+        "property_id": 197,
+        "property_label": "participe_a",
+        "is_public": true,
+        "@value": "roland garos"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/omeka-s/api-context",
+    "@id": "http://localhost/omeka-s/api/items/3",
+    "@type": [
+      "o:Item",
+      "tennis:athlète"
+    ],
+    "o:id": 3,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/omeka-s/api/resource_classes/111",
+      "o:id": 111
+    },
+    "o:resource_template": {
+      "@id": "http://localhost/omeka-s/api/resource_templates/7",
+      "o:id": 7
+    },
+    "o:thumbnail": null,
+    "o:title": "djokovic",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-28T20:46:11+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-28T20:55:53+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [
+      
+    ],
+    "o:item_set": [
+      
+    ],
+    "o:site": [
+      
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "djokovic"
+      }
+    ],
+    "tennis:sentraine_a": [
+      {
+        "type": "resource",
+        "property_id": 196,
+        "property_label": "sentraine_a",
+        "is_public": true,
+        "@id": "http://localhost/omeka-s/api/items/5",
+        "value_resource_id": 5,
+        "value_resource_name": "items",
+        "url": null,
+        "display_title": "philippe chatrier"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/omeka-s/api-context",
+    "@id": "http://localhost/omeka-s/api/items/4",
+    "@type": [
+      "o:Item",
+      "tennis:entraineur"
+    ],
+    "o:id": 4,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/omeka-s/api/resource_classes/112",
+      "o:id": 112
+    },
+    "o:resource_template": {
+      "@id": "http://localhost/omeka-s/api/resource_templates/4",
+      "o:id": 4
+    },
+    "o:thumbnail": null,
+    "o:title": "carlos moya",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-28T20:48:44+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-28T20:56:33+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [
+      
+    ],
+    "o:item_set": [
+      
+    ],
+    "o:site": [
+      
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "carlos moya"
+      }
+    ],
+    "tennis:entraine": [
+      {
+        "type": "resource",
+        "property_id": 193,
+        "property_label": "entraine",
+        "is_public": true,
+        "@id": "http://localhost/omeka-s/api/items/1",
+        "value_resource_id": 1,
+        "value_resource_name": "items",
+        "url": null,
+        "display_title": "nadal"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/omeka-s/api-context",
+    "@id": "http://localhost/omeka-s/api/items/5",
+    "@type": [
+      "o:Item",
+      "tennis:terrain"
+    ],
+    "o:id": 5,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/omeka-s/api/resource_classes/114",
+      "o:id": 114
+    },
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": "philippe chatrier",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-28T20:55:17+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-28T20:55:17+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [
+      
+    ],
+    "o:item_set": [
+      
+    ],
+    "o:site": [
+      
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "philippe chatrier"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost/omeka-s/api-context",
+    "@id": "http://localhost/omeka-s/api/items/6",
+    "@type": [
+      "o:Item",
+      "tennis:entraineur"
+    ],
+    "o:id": 6,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost/omeka-s/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost/omeka-s/api/resource_classes/112",
+      "o:id": 112
+    },
+    "o:resource_template": {
+      "@id": "http://localhost/omeka-s/api/resource_templates/9",
+      "o:id": 9
+    },
+    "o:thumbnail": null,
+    "o:title": "tonny nadal",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-28T20:59:02+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-28T21:03:19+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [
+      
+    ],
+    "o:item_set": [
+      
+    ],
+    "o:site": [
+      
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "tonny nadal"
+      }
+    ],
+    "tennis:soutien": [
+      {
+        "type": "resource",
+        "property_id": 198,
+        "property_label": "soutien",
+        "is_public": true,
+        "@id": "http://localhost/omeka-s/api/items/1",
+        "value_resource_id": 1,
+        "value_resource_name": "items",
+        "url": null,
+        "display_title": "nadal"
+      }
+    ]
+  }
+]
